@@ -146,8 +146,4 @@ Fake-Job-Detection/
 ## 👩‍💻 Author
 
 **Jood Shatnawi**
-
-
 ---
-
-إ*README viral (تجيب stars أكثر)**
