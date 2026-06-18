@@ -1,6 +1,5 @@
 streamlit
 tensorflow
-easyocr
-opencv-python-headless
 numpy
-pickle5; python_version < '3.8'
+opencv-python-headless
+easyocr
